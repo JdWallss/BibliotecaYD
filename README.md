@@ -4,7 +4,7 @@ Biblioteca YD es un catálogo de libros interactivo que permite a los usuarios b
 
 ## Descripción
 
-Este proyecto tiene como objetivo interactuar con los usuarios a través de la consola, proporcionando 9 opciones de interacción. Los libros se buscan a través de la API de [Gutendex]().
+Este proyecto ha sido realizado utilizando Spring y una base de datos PostgreSQL. La información es obtenida de una API de libros, donde se utiliza la información de libros y autores para crear entidades en la base de datos.
 
 ## Estructura del Proyecto 
 
@@ -26,9 +26,18 @@ El proyecto se divide en varios paquetes para mantenerlo modular:
 8. Buscar los 5 libros más populares.
 9. Mostrar estadísticas de la base de datos.
 
+## Tecnologías utilizadas
+
+1. Spring Framework
+2. PostgreSQL
+3. Streams y Lambdas en Java
+4. JPQL (Java Persistence Query Language)
+5. Consultas Derivadas (Derived Queries)
+6. Jackson para Deserialización
+   
 ## Cómo ejecutar el proyecto
 
-Para ejecutar este proyecto, necesitarás tener instalado Java y Spring Boot en tu equipo. Te recomiendo usar un IDE como IntelliJ IDEA o Eclipse.
+Para ejecutar este proyecto, necesitarás tener instalado alguna IDE en tu equipo. Te recomiendo usar IntelliJ IDEA o Eclipse.
 
 1. Clona el repositorio a tu equipo local.
 2. Importa el proyecto a tu IDE.
