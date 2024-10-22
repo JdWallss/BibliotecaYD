@@ -1,6 +1,6 @@
-# Biblioteca YD
+# Biblioteca LiterAlura
 
-Biblioteca YD es un catálogo de libros interactivo que permite a los usuarios buscar libros y autores a través de una API específica y guardar los resultados en una base de datos relacional.
+Biblioteca LiterAlura es un catálogo de libros interactivo que permite a los usuarios buscar libros y autores a través de una API específica y guardar los resultados en una base de datos relacional.
 
 ## Descripción
 
